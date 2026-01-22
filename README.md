@@ -11,49 +11,49 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/vanshbhurag">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourusername&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  <a href="https://www.buymeacoffee.com/vanshbhura" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a Computer Science student specializing in **Artificial Intelligence & Machine Learning**, currently focused on learning ML fundamentals and applying them through hands-on practice.
+I’m a Computer Science student specializing in **Artificial Intelligence & Machine Learning**, currently in my 4th semester at NIMS University.
 
-I like understanding how algorithms work under the hood, experimenting with data, and slowly converting confusion into clarity.
+Right now, I’m focused on learning ML fundamentals, practicing with Python, and slowly turning concepts into working code. I like understanding *why* things work, not just making them run.
 
 ---
 
 ### 🧠 Interests
-- Machine Learning
-- AI fundamentals
-- Data-driven problem solving
-- Real-world ML applications
+- Machine Learning  
+- AI fundamentals  
+- Data-driven problem solving  
+- Real-world ML applications  
 
 ---
 
 ### 🛠 Tech Stack
-- **Primary:** Python  
+- **Primary:** Python 🐍  
 - **Familiar with:** C, C++, Java, SQL  
-- **Libraries & Tools:** NumPy, Pandas, basic ML models, data preprocessing
+- **Tools & Libraries:** NumPy, Pandas, basic ML models, data preprocessing  
 
 ---
 
 ### 📌 Current Focus
 - Strengthening ML foundations  
-- Writing clean, readable Python code  
-- Building small experiments into meaningful projects
+- Writing clean, readable Python  
+- Small experiments → meaningful projects  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbhura&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbhura&theme=tokyonight" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ I like understanding how algorithms work under the hood, experimenting with data
 ### 📂 What You'll Find Here
 - ML practice notebooks & scripts  
 - Learning experiments  
-- Academic and personal projects (growing steadily 📈)
+- Academic and personal projects (growing steadily 📈)  
 
 ---
 
