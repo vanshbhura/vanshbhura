@@ -53,7 +53,7 @@ Right now, I’m focused on learning ML fundamentals, practicing with Python, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbhura&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vnx.exe&theme=tokyonight" />
 </p>
 
 ---
